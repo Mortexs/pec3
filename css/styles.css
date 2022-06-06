@@ -476,7 +476,7 @@ width: 50%;
 input[type="submit"],
 button{
     -webkit-appearance: none;
-    -webkit-border-radius: 0;
+    -webkit-border-radius: 5px;
 }
 
 .newsletter_cpntent {
