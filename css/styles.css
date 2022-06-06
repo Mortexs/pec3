@@ -472,6 +472,13 @@ width: 50%;
     background-color: #EB9781;
 }
 
+/*eliminar estilos ios*/
+input[type="submit"],
+button{
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+}
+
 .newsletter_cpntent {
     z-index: 2;
 }
