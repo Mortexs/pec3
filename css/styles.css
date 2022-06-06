@@ -442,6 +442,7 @@ width: 50%;
     background-position: top; 
     background-repeat: repeat; 
     
+
 }
 
 .newsletter p {
@@ -488,6 +489,14 @@ width: 50%;
 
         width: 215px;
     
+    }
+    .submit {
+        color: white;
+        background-color: #DC4A23;
+        padding: 10px;
+        border: 0px;
+        border-radius: 5px;
+        margin-left: 5px;
     }
 }
 
